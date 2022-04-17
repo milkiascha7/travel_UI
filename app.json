@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "travel_ui",
+    "name": "Travel_UI",
     "slug": "travel_ui",
+    "description": "UI made in react native for people who like to Travel and do activities",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.mikichachi7.travel_ui"
     },
     "web": {
       "favicon": "./assets/favicon.png"
